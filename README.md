@@ -1,4 +1,4 @@
-# Load-flow-analysis-in-Power-Systems-EE381
+# Load-flow-analysis-Power-Systems-EE381
 
 MATLAB programs for solving the power-flow equations using either of methods: Gauss-Seidel (G-S), Newton-Raphson (N-R) & Fast Decoupled Load Flow (FDLF).
 
